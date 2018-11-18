@@ -1,5 +1,5 @@
 # ultimateTodoApp 
-Ultimate Todo App  
+Ultimate Todo Application
 
 ## STEPS
 
